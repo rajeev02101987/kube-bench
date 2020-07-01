@@ -1,10 +1,10 @@
 ---
 language: go
 
-arch: 
+arch:
   - arm64
   - amd64
-  
+
 services:
   - docker
 
